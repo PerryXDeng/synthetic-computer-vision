@@ -9,6 +9,11 @@ If you find anything missing from this page, please edit this `README.md` file t
 
 <div id="dataset"></div>
 
+## new cool shit that aren't really papers but maybe helpful
+
+- [Vid2Game(Facebook) - generate models from videos] https://youtu.be/sNp6HskavBE
+
+
 ## Synthetic image dataset
 
 
